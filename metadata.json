@@ -1,0 +1,10 @@
+{
+  "name": "Blog Truyện Tranh",
+  "short_name": "BlogTruyen",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "description": "Đọc truyện tranh online, cập nhật liên tục tại Blog Truyện Tranh. Hỗ trợ tải truyện, đọc offline và bình luận.",
+  "requestFramePermissions": []
+}
